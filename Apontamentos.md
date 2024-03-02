@@ -45,3 +45,16 @@ R:
 - Falta de encriptação
 - Falta de backups
 - Falta de controlo de acessos
+
+
+## Continuidade de negócio (por escrever)
+
+
+Nota: A probabilidade de uma ameaça vir a usar uma vulnerabilidade 
+para causar dano resulta num risco para a organização.
+
+A Segurança da informação deve ser um processo integrado, que abrange os seguintes aspetos:
+ - Normas e procedimentos;
+ - Infraestrutura;
+ - Acesso Físico;
+ - Sistemas e aplicações;
