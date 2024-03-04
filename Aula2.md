@@ -102,9 +102,9 @@ Pode ser feita a:
 - Novos sistemas a implementar;
 
 É preciso:
- - Identificar a ameaça (ameaças são eventos que podem causar danos);
- - Identificar a vulnerabilidade (vulnerabilidades são falhas que podem ser exploradas por ameaças);
- - Identificar o impacto (impacto é a consequência de uma ameaça explorar uma vulnerabilidade);
+ - Identificar ameaças;
+ - Identificar vulnerabilidades;
+ - Identificar o impacto;
 
 Tem como resultado:
  - Identificação das **ameaças** e **valorização dos riscos**;
@@ -118,6 +118,27 @@ Em termos de **custos**:
 Para quantificar o risco pode ser de forma:
 - **Qualitativa** (níveis de valores);
 - **Quantitativa** (valor numérico);
+
+A probabilidade pode ser estimada, através de:
+ - Dados e *input* interno;
+ - Dados externos;
+
+### Valorização dos ativos
+
+Atribuição de um **nível de importância** a um ativo (um bem que a empresa possui), de forma a perceber o impacto que a sua perda pode ter na organização.
+
+| Nível | Descrição                                                                               |
+| ----- | --------------------------------------------------------------------------------------- |
+| 1     | Baixo: O processo executará normalmente, podendo existir pequenos impactos na operação. |
+| 2     | Médio: O processo executará com dificuldades, podendo existir impactos na operação.     |
+| 3     | Alto: O processo não executará, existindo impactos graves na operação.                  |
+| 4     | Muito Alto: O processo não executará, comprometendo acordos comerciais.                 |
+
+### Tipos de riscos
+
+Existem dois tipos de riscos:
+- **Risco Operacional**: é o risco de perda resultante de processos internos, pessoas e sistemas. O seu valor é calculado da seguinte forma `Risco(O) = Probabilidade * Impacto Operacional`;
+- **Risco Financeiro**: é o risco de perda resultante de flutuações de mercado, taxas de juro, taxas de câmbio, etc. O seu valor é calculado da seguinte forma `Risco(F) = Probabilidade * Impacto Financeiro`;
 
 (Parou no Slide 72)
 
@@ -162,3 +183,6 @@ Para quantificar o risco pode ser de forma:
   - Políticas de controlo de acessos robustas;
   - Sistemas de redundância de dados;
   - Sistemas de *backups* e verificação de integridade;
+
+
+## Tratamento de riscos
