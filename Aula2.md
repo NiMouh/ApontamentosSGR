@@ -35,22 +35,22 @@ Contém os seguintes **princípios**:
 
 Para implementar um sistema de gestão, é **necessário**:
 - **Planear**:
- - Compreender a organização e o seu contexto;
- - Compreender as necessidades e expectativas das partes interessadas;
- - Determinar o âmbito do sistema de gestão;
- - Estabelecer a liderança política do sistema de gestão;
- - Suporte de recursos, competência, consciencialização, comunicação e informação documentada;
+  - Compreender a organização e o seu contexto;
+  - Compreender as necessidades e expectativas das partes interessadas;
+  - Determinar o âmbito do sistema de gestão;
+  - Estabelecer a liderança política do sistema de gestão;
+  - Suporte de recursos, competência, consciencialização, comunicação e informação documentada;
 - **Fazer**:
- - Planeamento e controlo operacional;
- - Avaliação dos riscos da segurança da informação;
- - Tratamento dos riscos;
+  - Planeamento e controlo operacional;
+  - Avaliação dos riscos da segurança da informação;
+  - Tratamento dos riscos;
 - **Verificar**:
- - Monitorização, medição, análise e avaliação;
- - Auditoria interna;
- - Revisão pela gestão;
+  - Monitorização, medição, análise e avaliação;
+  - Auditoria interna;
+  - Revisão pela gestão;
 - **Agir**:
- - Melhoria contínua;
- - Revisão pela gestão.
+  - Melhoria contínua;
+  - Revisão pela gestão.
 
 ## Sistema de Gestão integrado
 
@@ -146,14 +146,14 @@ Existem dois tipos de riscos:
 
 1. Escolher uma área/sistema da Universidade
 2. Identificar possíveis
- - Ameaças
- - Vulnerabilidades
- - Riscos
+   - Ameaças
+   - Vulnerabilidades
+   - Riscos
 3. Identificar controlos a implementar
 
 #### Exemplo do Sistema autenticação
 - **Ameaças**:
-  - Inundações no datacenter;
+  - Inundações no data center;
   - *Hacking*
 - **Vulnerabilidades**:
   -  Disponibilidade e Integridade;
@@ -162,7 +162,7 @@ Existem dois tipos de riscos:
   - Sem redundância de dados e sem *backups*; 
   - SQL Injection;
 - **Identificação de controlos a implementar**:
-  - Considerar a mudança de localização do datacenter ou implementar um sistema de deteção de inundações; 
+  - Considerar a mudança de localização do data center ou implementar um sistema de deteção de inundações; 
   - Sistema de deteção de intrusões (IDS);
   - Implementação de um sistema de login robusto;
 
@@ -177,12 +177,9 @@ Existem dois tipos de riscos:
 - **Riscos**:
   - Informação pessoal de alunos e docentes comprometida;
   - Serviço inoperacional por longos períodos de tempo;
-  - Comprometimento de outros serviços que utilizem as mesmas credênciais em caso de roubo de informação;
+  - Comprometimento de outros serviços que utilizem as mesmas credenciais em caso de roubo de informação;
 - **Identificação de controlos a implementar**:
   - Formação dos funcionários para detetar ataques por engenharia social e phishing;
   - Políticas de controlo de acessos robustas;
   - Sistemas de redundância de dados;
   - Sistemas de *backups* e verificação de integridade;
-
-
-## Tratamento de riscos
