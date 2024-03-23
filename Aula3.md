@@ -182,4 +182,4 @@ Permite assegurar a utilização adequada e eficaz de criptografia para proteger
   - Implementação de *backup* de dados de dificil acesso (impedindo ataques ransomware); 
 - Outras?
 
-(PÁGINA 52)
+(PÁGINA 52 até 66)
